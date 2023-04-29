@@ -21,18 +21,27 @@ Original Dataset Link: https://www.kaggle.com/datasets/michaelarman/poemsdataset
 <b>Links of Datasets to be used in this project:</b>
 
 Emotions Datset: https://www.kaggle.com/datasets/atulkrishnan25/emotions
+
 Virtues Dataset: https://www.kaggle.com/datasets/atulkrishnan25/virtues
+
 Fantasy and Nature Dataset: https://www.kaggle.com/datasets/harshhardikar/nature
+
 Seasons Dataset: https://www.kaggle.com/datasets/gayatriprabhala/seasons
+
 Other Topics Dataset: https://www.kaggle.com/datasets/gayatriprabhala/othertopics
 
 <b>Models used in the Dataset</b>
 
 Emotions Model: https://www.kaggle.com/datasets/atulkrishnan25/emotions-model
+
 Virtues Model: https://www.kaggle.com/datasets/atulkrishnan25/virtues-model
+
 Nature Model: https://www.kaggle.com/datasets/harshhardikar/nature-model
+
 Fantasy Model: https://www.kaggle.com/datasets/harshhardikar/fantasy-model
+
 Seasons Model: https://www.kaggle.com/datasets/gayatriprabhala/seasons-nlp
+
 Other Topics Model: https://www.kaggle.com/datasets/gayatriprabhala/othertopics-model
 
 ## Hope this poem generator generates a lot of fun!
